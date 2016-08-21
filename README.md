@@ -1,22 +1,25 @@
-# Bi Sheng
+# 毕昇
+##### 所有知识产权归原作者 https://github.com/benjycui/bisheng
+##### 本人仅做中文翻译
+
 
 [![](https://img.shields.io/travis/benjycui/bisheng.svg?style=flat-square)](https://travis-ci.org/benjycui/bisheng)
 [![npm package](https://img.shields.io/npm/v/bisheng.svg?style=flat-square)](https://www.npmjs.org/package/bisheng)
 [![NPM downloads](http://img.shields.io/npm/dm/bisheng.svg?style=flat-square)](https://npmjs.org/package/bisheng)
 [![Dependency Status](https://david-dm.org/benjycui/bisheng.svg?style=flat-square)](https://david-dm.org/benjycui/bisheng)
 
-> [Bi Sheng](https://en.wikipedia.org/wiki/Bi_Sheng) was the Chinese inventor of the first known movable type technology.
+> [毕昇](https://en.wikipedia.org/wiki/Bi_Sheng) 是 活字印刷术 的发明人
 
-`bisheng` is designed to transform [Markdown](https://en.wikipedia.org/wiki/Markdown) into static websites and blogs using [React](https://facebook.github.io/react/).
-
+`毕昇` 设计目的是将 [Markdown](https://en.wikipedia.org/wiki/Markdown) 转换成静态网页或博客。（基于 [React](https://facebook.github.io/react/)技术。）
+示例网站
 [Demo](http://benjycui.github.io/bisheng-theme-one/)
 
-## Features
+## 特点
 
-* Support [`browserHistory`](https://github.com/reactjs/react-router/blob/master/docs/API.md#browserhistory), even in [GitHub Pages](https://pages.github.com/).
+* 支持 [`browserHistory`](https://github.com/reactjs/react-router/blob/master/docs/API.md#browserhistory), even in [GitHub Pages](https://pages.github.com/).
 * Lazy load for Markdown data.
 
-## Usage
+## U=用法
 
 ### Use `bisheng` in a new project
 
